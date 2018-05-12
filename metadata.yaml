@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35866'
     url: http://www.gutenberg.org/2009/agents/35866
 description: A balanced diet. -- Calories in common life. -- Rules of saving and safety.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32472#Food-in-War-Time
 gutenberg_bookshelf:
 - Technology
 - Cookery
